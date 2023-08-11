@@ -1,11 +1,11 @@
 #include <stdio.h>
 /*
- * main is the starting point
- * this function prints a tex
- * returns 0 when everything is correct
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle\"");
 	return (0);
 }
