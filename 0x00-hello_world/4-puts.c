@@ -1,5 +1,11 @@
 #include <stdio.h>
-int main(){
-	puts("Programming is like building a multilingual puzzle\n");
-	return 0;
+/*
+ * main is the starting point
+ * this function prints a tex
+ * returns 0 when everything is correct
+ */
+int main(void)
+{
+	puts("Programming is like building a multilingual puzzle");
+	return (0);
 }
